@@ -1,0 +1,127 @@
+## 주간뉴스
+1) .NET Framework 1 월 보안 및 품질 롤업 업데이트
+- URL : https://devblogs.microsoft.com/dotnet/net-framework-january-security-and-quality-rollup-update/
+
+2) .NET 5 네트워킹 향상
+- URL : https://devblogs.microsoft.com/dotnet/net-5-new-networking-improvements/.
+
+3) RealProxy 사용을 DispatchProxy로 마이그레이션
+- URL : https://devblogs.microsoft.com/dotnet/migrating-realproxy-usage-to-dispatchproxy/
+
+4) .NET 5의 진단 향상
+- URL : https://devblogs.microsoft.com/dotnet/diagnostics-improvements-in-net-5/
+
+5) Azure Active Directory의 게이트웨이는 .NET Core 3.1에 있습니다!
+- URL : https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-service-is-on-net-core-3-1/
+
+6) Entity Framework Core 6.0 계획
+- URl : https://devblogs.microsoft.com/dotnet/the-plan-for-entity-framework-core-6-0/
+
+안녕하세요. 
+
+채용공고를 이곳에 올리기에는 다소 적합하지 않을수 있으나
+.NET 개발 생태계 활성화 및 .NET 개발자 채용 수요에 대한 인식 제고를 위해
+본사의 닷넷 개발자 채용정보를 공유드리오니 많은 분들의 입사 및 프로젝트 지원 부탁드립니다.
+
+##채용공고
+
+1)주요 채용분야 및 인원
+-ASP.NET(Core) 백엔드 개발자 2명 : 프리랜서
+-WPF Windows Desktop Application 개발자 1명 : 정규직
+-Azure/AD/Windows서버/PowerShell 제어 C#/.NET 개발자 1명 : 정규직 
+
+-채용업체 및 담당자 : 엠소프트웨어 대표 강창훈
+-채용문의 : 010-2760-5246   ceo@msoftware.co.kr 
+
+
+2)개발업무 
+-LG유플러스 U2 차세대 서비스 플랫폼 개발업무 
+-상기 모든 채용 인원(프리랜서2명/정규직2명)은 U2프로젝트에 참여합니다.
+-자세한 서비스 및 개발 업무에 대해서는 면접시 설명 드립니다.
+
+
+3)채용일정 및 급여조건
+-모집기간 : 2021년 01월 21일 ~ 02월 17일(수)
+-프로젝트 기간 : 2021년 02월 22일(월) ~ 12월 30일
+-급여조건 : 프리랜서(SI업계평균) / 정규직(사내기준)
+-면접시 프리랜서/정규직 구분하여 지원해주시기 바랍니다. 
+-정규직 혜택
+ㄴ연봉 년차 기준 업계 평균이상
+ㄴ연차 24일(월차 2일)
+ㄴ매월 1회 공개기술세미나 발표 필수 포함
+ㄴ인센티브 지급(년말 성과급 제도 운영)
+
+
+4)채용 직군별 기술 스펙 및 조건
+
+ 1.백엔드 개발 직군 기술 스펙 : 프리랜서 2 명
+ -ASP.NET(.NET Framework 4.0 이상) 웹 어플리케이션 개발경험 5년차 이상-필수
+ -C# 개발자, Windows Server,IIS 웹서버 운영 가능 -필수
+ -MS SQL or PostgreSQL RDBMS -필수
+ -Entity Framework or Dapper ORM 사용 경험자 -필수
+ -세부 개발환경은 ASP.NET Core 3.1 기반 RESTFul 서비스(ORM/분산) 개발이 주업무이며 
+  ASP.NET Core에 대해 모르셔도 친철히 아키텍트(Application Architect - 강창훈) 알려드리고 개발을 지원해드립니다.
+ -아래 사항은 채용 우선 우대 조건입니다.
+ -ASP.NET Core 2.x 이상 웹 어플리케이션 개발 및 서비스 가능자 - 우대
+ -WPF,Winform개발 경험자-우대
+ -Active Directory Programming 경험자-우대
+ -Azure Cloud IaaS ,PaaS 서비스 경험자-우대
+
+ -중급 1명: 5년차 이상
+ -고급 1명 : 10년차 이상
+ -개발 경력 기술(이력)서 필수 사전 제출 요망
+
+2.WPF Windows Desktop Application 개발자 : 정규직  1명
+-WPF/MVVM 패턴 기반 개발 유경험자-필수
+-WPF,XAML 기술 기반 프로젝트 유경험자-필수
+-MVVMLight or Prism 사용 유경험자 -필수
+-C#.NET 개발경력 5년차 이상 -필수
+
+ -ASP.NET 웹 개발경력자 -우대
+-Windows Server 제어 프로그래밍 경력자 -우대
+-네트워킹,파일업로드/다운로드 프로그래밍 -우대 
+-개발 경력 기술(이력)서 필수 사전 제출 요망
+ -중급 1명: 5년차 이상
+
+
+3.Azure/ActiveDirectory/Windows서버 제어 C# 개발자 : 정규직  1명
+ -Active Directory 계정 관리 프로그래밍-필수  
+ -Azure 서비스 및 VM  제어 Shell 프로그래밍-필수
+ -WindowsServer 사용자/서버 환경 제어 프로그래밍-필수
+ -Azure 클라우드(IaaS,PaaS) 기반 서비스 운영 경험자 -필수
+ -C#/.NET 5년차 이상 -필수
+ 
+ -Winform/ASP.NET 웹 개발경력자 -우대
+ -Windows Server 제어 프로그래밍 경력자 -우대
+ -원격제어/가상화 프로그래밍 가능자 -우대 
+ -개발 경력 기술(이력)서 필수 사전 제출 요망
+ -중급 1명: 5년차 이상
+
+
+위 채용건에 관련해 궁금하신점이나 문의사항은 언제든
+메일이나 전화주시면 친절히 답변 드리겠습니다.
+
+많은분들의 지원부탁드립니다. 꾸벅~
+감사합니다.
+
+## 공지사항
+
+1) 코로나 조심하세요.
+
+2) 낚시성링크를 자제합니다.
+
+3) 당일 질문 규제가 변경됩니다. 당일질문 규제 X 에서 당일 질문 개발질문만 규제하는걸로 변경되었습니다.
+
+4) 채팅방 내 별도 홍보는 관리자에게 문의 바랍니다. 
+
+5) 스터디 관련 및 세미나 관련 홍보는 현재 대화중에서 내용이 가능하며 담당자가 
+홍보를 대신하여 채팅봇이 하루에 한번 세미나 및 스터디 관련 홍보를 할 예정입니다.
+주최자가 세미나 및 스터디 홍보보다는 관리자가 홍보를 할 예정입니다.
+현재 세미나 및 스터디는 주간 3건을 봇으로 요청할수 있으며 선착순 3건으로 지정됩니다.
+3건이후에는 담당자가 하루에 한번 홍보가 가능합니다.
+
+6) 방장이 바뀝니다. 푸님에서 쫑님으로 변경될 예정입니다.
+
+7) 채팅방에서 반말을 금지하며 님이라는 호칭으로 사용해주시길 바랍니다. :)
+
+8) 현재 닷넷 홈페이지 운영을 금지합니다.
